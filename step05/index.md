@@ -64,7 +64,7 @@ grabcad-url1: https://workbench.grabcad.com/workbench/projects/gcl5zpCuwqCXWLvYk
 
 Attach a piece of Makerslide to an end plate using a button head cap screw. Make sure you use the correct holes in the end plate and that you orient the two pieces correctly.
 
-<strong>If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.</strong> This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly.
+<strong>If you have limit switches, make sure the slot on the Makerslide is oriented in the upper position.</strong> This slot is used to attach the limit switch "actuator" and will not be aligned with the switch if the Makerslide is positioned incorrectly. Refer to part 14 of Step 14: Electronics to see the final position of the actuator and limit switch.
 
 <div class="row image-row">
 <p><img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1077/original/0331.jpg?1431031633" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1078/original/0334.jpg?1431032389" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1079/original/0337.jpg?1431032390" class="thumbnail col-md-3" alt="" /> <img src="https://dzevsq2emy08i.cloudfront.net/paperclip/project_instruction_image_uploaded_images/1094/original/0343Text.jpg?1431040998?1431032391" class="thumbnail col-md-3" alt="" /></p>
